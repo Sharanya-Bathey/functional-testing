@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="selenium-2.25">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/selenium-2.25.0" />
+      <root url="file://$PROJECT_DIR$/selenium-2.25.0/libs" />
+      <root url="file://$PROJECT_DIR$/selenium-2.25.0" />
+      <root url="file://$PROJECT_DIR$/selenium-2.25.0/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/selenium-2.25.0" />
+      <root url="file://$PROJECT_DIR$/selenium-2.25.0/libs" />
+      <root url="file://$PROJECT_DIR$/selenium-2.25.0" />
+      <root url="file://$PROJECT_DIR$/selenium-2.25.0/libs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/selenium-2.25.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/selenium-2.25.0/libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/selenium-2.25.0" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/selenium-2.25.0/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
